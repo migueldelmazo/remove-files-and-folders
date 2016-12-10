@@ -2,4 +2,4 @@
 Script to remove files and folders recursively with node
 
 ##How to use it?
-node index.js 'folder/'
+node index.js `folder/`
